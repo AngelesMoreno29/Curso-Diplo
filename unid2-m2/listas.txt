@@ -1,3 +1,6 @@
 pan
 queso
-galletas
+jamón
+tomates
+palta
+papa
