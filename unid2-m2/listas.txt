@@ -4,3 +4,5 @@ jamón
 tomates
 palta
 papa
+harina
+leche
