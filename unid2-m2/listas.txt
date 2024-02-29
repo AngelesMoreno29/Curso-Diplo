@@ -6,3 +6,5 @@ palta
 papa
 harina
 leche
+carne
+huevos
